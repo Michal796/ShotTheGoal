@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-//typ wyliczeniowy stanów gry
+//typ wyliczeniowy wszystkich możliwych stanów gry
 public enum GameMode
 {
     idle, playing, levelEnd
